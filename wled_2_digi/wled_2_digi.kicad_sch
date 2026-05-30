@@ -4743,16 +4743,100 @@
 		(uuid "0bfd585b-0cb1-4ce4-8bb7-c0bb68b4fda8")
 	)
 	(no_connect
+		(at 99.06 55.88)
+		(uuid "0c1eb346-6c47-4073-8479-99034423c1c6")
+	)
+	(no_connect
 		(at 78.74 83.82)
 		(uuid "1561cb01-d5bd-424c-9282-f86af98a5e81")
+	)
+	(no_connect
+		(at 78.74 53.34)
+		(uuid "17ad4edf-e45e-4011-af47-b599f12821b0")
+	)
+	(no_connect
+		(at 99.06 68.58)
+		(uuid "17e3b355-8cc9-4c74-a18d-d0148583e1b8")
+	)
+	(no_connect
+		(at 78.74 55.88)
+		(uuid "1b716a2c-2bbb-4577-9f4f-5510e9df9fa6")
+	)
+	(no_connect
+		(at 78.74 66.04)
+		(uuid "1ea7fcda-81b8-4e02-a340-502bbc9001f8")
+	)
+	(no_connect
+		(at 99.06 81.28)
+		(uuid "2986af89-9896-4b7b-a9d5-ce8356c22506")
+	)
+	(no_connect
+		(at 78.74 78.74)
+		(uuid "2c221c27-b263-4e4e-ad5d-e1db70951c9d")
 	)
 	(no_connect
 		(at 99.06 45.72)
 		(uuid "3395da1f-e98a-476f-83b1-0aebf0c81ad4")
 	)
 	(no_connect
+		(at 99.06 71.12)
+		(uuid "35714d74-53bf-4df3-9b96-a4b181d971ad")
+	)
+	(no_connect
+		(at 99.06 58.42)
+		(uuid "52cfb23e-8b88-4e31-8078-5a49629848be")
+	)
+	(no_connect
+		(at 78.74 43.18)
+		(uuid "58373f50-3db7-454b-93dc-c534675945a5")
+	)
+	(no_connect
+		(at 78.74 76.2)
+		(uuid "5c0389dc-575b-46c7-92e3-201eb19d36da")
+	)
+	(no_connect
+		(at 78.74 81.28)
+		(uuid "600876fe-650e-4d82-8616-216b8ef7c8ed")
+	)
+	(no_connect
+		(at 78.74 58.42)
+		(uuid "6f3b73df-0e78-47c0-a19c-9b771c173d3d")
+	)
+	(no_connect
+		(at 99.06 48.26)
+		(uuid "82a754a1-61fa-42c0-a072-c46e86dcf66e")
+	)
+	(no_connect
+		(at 99.06 78.74)
+		(uuid "91d404b8-37b2-4058-9a0c-07af79a0733a")
+	)
+	(no_connect
+		(at 99.06 76.2)
+		(uuid "9cb6de15-b1d9-4735-a543-12e9f1c93acb")
+	)
+	(no_connect
+		(at 99.06 66.04)
+		(uuid "a643f204-4536-48b1-8de7-d75c476c4c58")
+	)
+	(no_connect
 		(at 78.74 63.5)
 		(uuid "a8a8a5eb-a359-4356-bb7b-195f1dff5d7c")
+	)
+	(no_connect
+		(at 99.06 50.8)
+		(uuid "ac19b63e-b6b6-46e0-8f89-a0694233a9e9")
+	)
+	(no_connect
+		(at 99.06 53.34)
+		(uuid "b5ea989d-c737-471b-bcbd-17b34d6caac0")
+	)
+	(no_connect
+		(at 99.06 63.5)
+		(uuid "bba91c70-9c28-471e-b1be-f8667d6c9ad2")
+	)
+	(no_connect
+		(at 99.06 73.66)
+		(uuid "c0abfdb3-d83e-4df5-8bfd-3211b409ae15")
 	)
 	(no_connect
 		(at 99.06 43.18)
@@ -8427,7 +8511,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MMBT2222A"
+		(property "Value" "MMBT4401LT1G"
 			(at 60.96 147.3199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10234,7 +10318,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MMBT2222A"
+		(property "Value" "MMBT4401LT1G"
 			(at 172.72 133.3499 0)
 			(show_name no)
 			(do_not_autoplace no)
