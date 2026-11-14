@@ -8153,6 +8153,19 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "DerNiccoo\nwled_esp_board v1.1"
+		(at 107.59 62.34 0)
+		(layer "B.SilkS")
+		(uuid "e8f775be-dda1-438b-af97-d30d8b9a9f91")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "BOOT"
 		(at 90.16 87.85 0)
 		(layer "B.SilkS")
@@ -8161,19 +8174,6 @@
 			(font
 				(size 0.8 0.8)
 				(thickness 0.2)
-				(bold yes)
-			)
-			(justify left bottom mirror)
-		)
-	)
-	(gr_text "DerNiccoo\nwled_esp_board v1"
-		(at 107.59 62.34 0)
-		(layer "B.SilkS")
-		(uuid "e8f775be-dda1-438b-af97-d30d8b9a9f91")
-		(effects
-			(font
-				(size 0.9 0.9)
-				(thickness 0.15)
 				(bold yes)
 			)
 			(justify left bottom mirror)
@@ -8539,7 +8539,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "WLED\nESP32-S3\nv1.0"
+	(gr_text "WLED\nESP32-S3\nv1.1"
 		(at 117.55 89.1 0)
 		(layer "B.SilkS")
 		(uuid "c4390c0d-0e6c-41b9-b80c-f77ddfd3f2a3")
