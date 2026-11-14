@@ -493,6 +493,7 @@
       "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
+      "same_local_global_power": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
@@ -582,6 +583,7 @@
       "netlist": "",
       "plot": "Gerber/",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -722,7 +724,7 @@
         "uuid": "98217286-8168-4593-b1da-c66a70d142aa"
       }
     ],
-    "used_designators": "U4,J6-10,#PWR20-24",
+    "used_designators": "#PWR20-24,J6-10,U4",
     "variants": []
   },
   "sheets": [
